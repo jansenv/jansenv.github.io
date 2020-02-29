@@ -1912,7 +1912,7 @@ ol li {
 ul.icons {
   cursor: default;
   list-style: none;
-  padding-left: 0;
+  padding-left: 0px;
 }
 
 ul.icons li {
@@ -1927,6 +1927,11 @@ ul.icons a {
   line-height: 2em;
   text-align: center;
   border: 0;
+}
+
+.icons-main {
+  list-style-type: none;
+  padding-right: 30px;
 }
 
 /* Form */
