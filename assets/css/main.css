@@ -1931,7 +1931,12 @@ ul.icons a {
 
 .icons-main {
   list-style-type: none;
-  padding-right: 30px;
+  padding-right: 35px;
+}
+
+.icons-main li {
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 /* Form */
