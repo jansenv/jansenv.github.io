@@ -354,8 +354,18 @@ br.clear {
   max-width: 110px;
 }
 
-.npmImage {
-  margin-bottom: 50px;
+.apacheImage {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.linuxImage {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.phpImage {
+  margin-bottom: 40px;
 }
 
 @media screen and (min-width: 961px) and (max-width: 1880px) {
