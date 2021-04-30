@@ -1912,6 +1912,7 @@ article:last-child {
 
 .item:hover {
   box-shadow: 3px 3px 16px -6px rgba(247, 106, 0);
+  transition: 200ms ease-in;
 }
 
 /* List */
